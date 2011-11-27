@@ -1,0 +1,1 @@
+<g:render template="/includes/linkArticles" model="[entity:problemInstance, entityTitle:'Проблема', entityName: 'problem']"/>
